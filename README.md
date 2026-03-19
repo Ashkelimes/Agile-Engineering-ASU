@@ -1,7 +1,0 @@
-﻿# Agile Engineering - Lab 3
-Student: Ashkelimes
-Lab exercises for remote repositories.
-Updated locally for Exercise 1
-
-
-Updated via GitHub web interface - Exercise 2
